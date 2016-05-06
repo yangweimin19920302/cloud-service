@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:/cloud-client/cloud-client.iml" filepath="E:/cloud-client/cloud-client.iml" />
+      <module fileurl="file://E:/cloud-config/cloud-config.iml" filepath="E:/cloud-config/cloud-config.iml" />
+      <module fileurl="file://E://cloud-service/cloud-service.iml" filepath="E://cloud-service/cloud-service.iml" />
+    </modules>
+  </component>
+</project>
